@@ -38,7 +38,7 @@ This project proposes a computer vision-based smart parking system that identifi
 ## 📱 App Interface Preview
 
 Smart parking app prototype:
-![Parking app](images/parking.png)
+![Parking app](parkingapp.png)
 
 
 ## Challenges
