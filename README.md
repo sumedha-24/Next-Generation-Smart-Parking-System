@@ -35,6 +35,12 @@ This project proposes a computer vision-based smart parking system that identifi
 - User-friendly mobile interface  
 - Dynamic navigation to selected parking slot
 
+## 📱 App Interface Preview
+
+Smart parking app prototype:
+![Parking app](images/parking.png)
+
+
 ## Challenges
 
 - Integrating real-time video feed to the backend.  
